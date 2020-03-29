@@ -1,1 +1,3 @@
-airly.api.key=123
+airly:
+  api:
+    key: 123
